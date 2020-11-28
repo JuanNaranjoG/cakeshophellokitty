@@ -1,0 +1,130 @@
+/* Navbar */
+
+.nav {
+  background-color: #fc6b89;
+}
+
+
+.btnnav {
+  color: rgba(255,255,255,.5) !important;
+}
+
+
+/* Banner */
+
+.banner {
+  background-image: url("../img/banner.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.btnban {
+  color: #fc6b89 !important;
+  border-color: #fc6b89 !important;
+}
+
+.btnban:hover {
+  background-color: #fc6b89 !important;
+  color: #fff !important;
+}
+
+.textb {
+  color: #00BFFF;
+}
+
+/* Ingredeients */
+
+.col-lg-4 {
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+.services{
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+.btning{
+  color: #FFF !important;
+  background-color: #48D1CC !important;
+}
+
+/* Product1 */
+
+.flex-md-equal > * {
+  -ms-flex: 1;
+  flex: 1;
+}
+
+.pdiva{
+  background-color: #48D1CC;
+  
+}
+.pdivr{
+  background-color: #FFB6C1;
+  
+}
+
+
+.pimg {
+  width: 100%;
+  height: 300px;
+  margin-bottom: 2.5rem;
+}
+
+.lead {
+  font-size: 1.25rem;
+  font-weight: 300;
+}
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+/* Banner2-3-4 */
+
+.pricing-header {
+  max-width: 700px;
+}
+
+.btnpre{
+  color: #fff !important;
+  background-color: #fc6b89 !important;
+}
+
+/* Album */
+
+.imga{
+  height:225px !important;
+}
+
+
+
+
+/* Footer */
+
+.page-footer{
+  background-color:#48D1CC;
+}
+
+.page-subfooter{
+  background-color:#3eb9b5;
+  color: rgba(255,255,255,0.6);
+}
+
+.flex-center {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.w{
+  width: 40px !important;
+}
+
